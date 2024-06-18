@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "5cca2d9a2d64a040",
+    "type": "split",
+    "children": [
+      {
+        "id": "4952a90027c71e03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aecd5c73933de9e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gamified voyeurism, or Do Not Feed The Monkey.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f3353c875d5b51c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Life without a schedule.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "85f9d6dd71449f9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "About games' menus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a1ca8e45c9658f0b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7cbe9080e5901e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f33f920a724e45a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "24700464ca807544",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "97cbf86ee728c6f4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "8446d6ba1af3d66a",
+    "type": "split",
+    "children": [
+      {
+        "id": "344cf79b4599b9f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4749466c6fa444d7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "About games' menus.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "46f43f07df72f49a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "About games' menus.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7c4526a2f2cdcabd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e1873f0dfd30b14e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "About games' menus.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "85f9d6dd71449f9d",
+  "lastOpenFiles": [
+    "images/Dirt 2 menu.mp4",
+    "images/Screenshot 2024-02-29 123526.png",
+    "images/Dirt 2 menu - Made with Clipchamp.mp4",
+    "images/Screenshot 2024-02-29 125246.png",
+    "images/5bb0d81303df5a54d08bd111603f8545.jpg",
+    "images/THUMPER 29_02_2024 11_58_10.png",
+    "THUMPER 29_02_2024 11_58_10.png",
+    "Life without a schedule.md",
+    "About games' menus.md",
+    "Gamified voyeurism, or Do Not Feed The Monkey.md",
+    "666].html",
+    "666.html",
+    "0.html",
+    "Pasted image 20231231165038.png",
+    "Pasted image 20231231164915.png",
+    "md/Sample.md",
+    "images/ans.png - Shortcut.lnk",
+    "md/Sample 2.md",
+    "images/std2.png.md",
+    "md/Untitled.md",
+    "Readme.md",
+    "images/std.png",
+    "images/ans.png",
+    "Sample.md",
+    "md",
+    "New folder",
+    "Sample 2.md",
+    "images/std2.png",
+    "images",
+    "sample.md"
+  ]
+}
