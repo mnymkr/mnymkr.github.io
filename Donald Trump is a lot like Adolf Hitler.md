@@ -1,3 +1,5 @@
+# Donald Trump is a lot like Adolf Hitler
+
 ### For context for context: 
 I'm addicted to reading Wikipedia. I would spend the whole day in a rabbit hole if I could. Also, lately I'm been practicing forming opinions and expressing it. I think it's good for me.
 ### For context: 
