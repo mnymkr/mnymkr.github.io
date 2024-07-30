@@ -8,7 +8,7 @@ I just spent a few hours reading on Wikipedia about Nazi Germany, and I couldn't
 I'm biased, this post is biased, and the materials I present in this post to support my "argument" are also likely biased, and I want you to know that. I spend a lot of time browsing Reddit, and Reddit is left-leaning. Most of the articles I found against Trump I started looking on Reddit. Information I learnt about Nazism and by extension - Hitler, was from Wikipedia, and [Wikipedia articles tends to be slanted towards democratic views.](https://en.wikipedia.org/wiki/Ideological_bias_on_Wikipedia#:~:text=The%20authors%20found%20that%20%22Wikipedia,about%20immigration%20trended%20toward%20Republican.)
 With that said, what is written in this post is my opinion and mine only, except for some parts that I stole directly from Wikipedia.
 ### This is a terrible opinion piece and you should stop reading.
-Stop wasting your time. You can close this tab now, right here. There's no need to read any further. Press Ctrl+W now to live long and prosper, Command+W if you're on a Macbook. Okay. Now that everyone's stopped reading, I can write whatever I want after this paragraph.
+Stop wasting your time. You can close this tab now, right here. There's no need to read any further. Press `Ctrl + W` now to live long and prosper, `Command + W` if you're on a Macbook. Okay. Now that everyone's stopped reading, I can write whatever I want after this paragraph.
 
 ### What I want to say is: Donald Trump and the MAGA (Make America Great Again) movement share a lot of similarities with Adolf Hitler and Nazism, and I think that is not good.
 
