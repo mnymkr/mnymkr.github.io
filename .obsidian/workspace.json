@@ -37,6 +37,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "About games' menus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c996229500c1746",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Donald Trump is a lot like Adolf Hitler.md",
                 "mode": "source",
                 "source": false
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -171,14 +183,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "85f9d6dd71449f9d",
+  "active": "5f33f920a724e45a",
   "lastOpenFiles": [
     "About games' menus.md",
+    "Life without a schedule.md",
     "Donald Trump is a lot like Adolf Hitler.md",
+    "images/Dirt 2 menu.gif",
+    "images/Dirt2menu-ezgif.com-video-to-gif-converter.gif",
     "submit-local.js",
     "Pasted image 20240730175643.png",
     "Pasted image 20240730163606.png",
-    "Life without a schedule.md",
     "Untitled.md",
     "images/Dirt 2 menu.mp4",
     "images/Screenshot 2024-02-29 123526.png",
@@ -192,14 +206,12 @@
     "666.html",
     "0.html",
     "Pasted image 20231231165038.png",
-    "Pasted image 20231231164915.png",
     "md/Sample.md",
     "images/ans.png - Shortcut.lnk",
     "md/Sample 2.md",
     "images/std2.png.md",
     "md/Untitled.md",
     "Readme.md",
-    "images/std.png",
     "Sample.md",
     "md",
     "New folder",

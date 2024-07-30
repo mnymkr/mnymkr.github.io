@@ -34,7 +34,7 @@ One way to have as little menu as possible is to require as few clicks as possib
 
 The other way is to go all-out, have the menu be integrated into the game's world, have the player roam around in it, explore it, make the menu as lively as possible. Such is the case of Colin McRae Dirt 2.
 
-![](images/Dirt%202%20menu.mp4)
+![](images/Dirt%202%20menu.gif)
 *The idea of having you travel around in a trailer is incredible.*
 
 Instead of having you look at a list, the menu is represented by real objects in the player avatar's surroundings: races as items on a map or posters, cars as cards on the table (and the car's right there!). The idea of having you travelling around in a trailer is frankly genius. Of course, some settings are tucked into a list menu, but it's a list on a table! And most of there settings only require you to access once and forget about.

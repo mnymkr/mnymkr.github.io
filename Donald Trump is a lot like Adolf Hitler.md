@@ -16,8 +16,8 @@ Stop wasting your time. You can close this tab now, right here. There's no need 
 ### Is Trump racist? Yes.  Is Hitler racist? I think so..?
 On account of racism and Hitler, is he racist? Is he? He belongs to the *[master race](https://encyclopedia.ushmm.org/content/en/article/deadly-medicine-creating-the-master-race)* after all.
 
-So what about Trump? The man has been trying to appear not-a-racist for a while now, claiming he's "the least racist person." Well, I'm sorry if you're a Vox hater, but I'll let [this Vox article do the talking]([Trump’s long history of racism, from the 1970s to 2020 - Vox](https://www.vox.com/2016/7/25/12270880/donald-trump-racist-racism-history)).
-During a rally on Wednesday, Donald repeatedly attacked Kamala, saying "She's totally against the Jewish people." That is new, probably because Kamala's husband, Doug Emhoff, is Jewish. 
+So what about Trump? The man has been trying to appear not-a-racist for a while now, claiming he's "the least racist person." Well, I'm sorry if you're a Vox hater, but I'll let [this Vox article do the talking](https://www.vox.com/2016/7/25/12270880/donald-trump-racist-racism-history).
+During a rally on Wednesday, [Donald repeatedly attacked Kamala](https://www.mediaite.com/tv/trump-claims-kamala-harris-is-totally-against-the-jewish-people-which-may-come-as-news-to-her-husband/), saying "She's totally against the Jewish people." That is new, probably because Kamala's husband, Doug Emhoff, is Jewish. 
 I have a hard time determining who is racist here. Is it Kamala or Donald?
 
 ### On the delicate topic of religion, many Republicans want to declare the U.S. a Christian nation.
