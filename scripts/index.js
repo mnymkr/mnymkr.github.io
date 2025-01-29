@@ -1,8 +1,3 @@
-
-
-
-// import data from '../index.json'; // remove this line
-
 let data;
 
 fetch('../index.json')
