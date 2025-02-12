@@ -1,0 +1,80 @@
+import os
+import json
+from datetime import datetime
+
+def get_existing_paths(index_file):
+    """Load existing .md file paths from index.json."""
+    if not os.path.exists(index_file):
+        return {}, 0
+    with open(index_file, 'r') as f:
+        data = json.load(f)
+    return {entry["path"]: entry for entry in data.values()}, len(data)
+
+def get_md_files(folder):
+    """Return a list of .md files in the given folder, excluding Readme.md."""
+    return [file for file in os.listdir(folder) if file.endswith('.md') and file.lower() != 'readme.md']
+
+def confirm_file(md_file):
+    """Ask the user if they want to add the given .md file to index.json."""
+    return input(f"\nDo you want to add {md_file} to index.json? (yes/no): ").strip().lower() == 'yes'
+
+def generate_new_entry(md_file, entry_id):
+    """Generate a new entry for the index.json."""
+    title = input(f"Enter title for {md_file}: ")
+    date = datetime.now().strftime("%Y-%m-%d")
+    preview = input(f"Enter preview for {md_file}: ")
+    tags = input(f"Enter tags for {md_file} (separated by semicolons): ")
+    
+    return {
+        "title": title,
+        "date": date,
+        "tags": tags,
+        "path": md_file,
+        "preview": preview
+    }
+
+def confirm_entry(entry):
+    """Ask user for confirmation before updating the index."""
+    print("\nNew entry:")
+    for key, value in entry.items():
+        print(f"{key.capitalize()}: {value}")
+    return input("Confirm entry? (yes/no): ").strip().lower() == 'yes'
+
+def update_index(index_file, new_entries):
+    """Update index.json with new entries."""
+    with open(index_file, 'r') as f:
+        data = json.load(f)
+    
+    data.update(new_entries)
+    
+    with open(index_file, 'w') as f:
+        json.dump(data, f, indent=4)
+    print("\nindex.json updated successfully!")
+
+def main():
+    folder = '.'  # Current directory
+    index_file = 'index.json'
+    existing_entries, next_id = get_existing_paths(index_file)
+    md_files = get_md_files(folder)
+
+    new_entries = {}
+    for md_file in md_files:
+        if md_file not in existing_entries:
+            print(f"\nFound new .md file: {md_file}")
+            if confirm_file(md_file):
+                entry = generate_new_entry(md_file, next_id + 1)
+                if confirm_entry(entry):
+                    new_entries[str(next_id + 1)] = entry
+                    next_id += 1
+                else:
+                    print("Skipped adding the entry.")
+            else:
+                print(f"Skipped {md_file}.")
+    
+    if new_entries:
+        update_index(index_file, new_entries)
+    else:
+        print("No new entries added.")
+
+if __name__ == "__main__":
+    main()
