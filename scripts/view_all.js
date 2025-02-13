@@ -20,6 +20,7 @@ function displayPosts(data) {
 
     // edit it with the data from the json file
     clone.querySelector(".title").innerHTML = data[element].title;
+    clone.querySelector(".date").innerHTML = data[element].date;
     clone.querySelector(".content-preview").innerHTML = data[element].preview;
     clone.querySelector(".link").href = "view.html?post=" + data[element].path;
 

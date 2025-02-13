@@ -13,6 +13,8 @@ fetch('../data.json')
 function processUrl(data) {
   const mainView = document.querySelector(".main-view");
   const title = document.querySelector(".title");
+  const datedElement = document.querySelector("#date");
+  // const dateElement = document.querySelector(".date");
 
   // get current url
   let urlString = window.location.href;
@@ -26,6 +28,7 @@ function processUrl(data) {
   let decodedFileName = decodeURIComponent(fileName);
   let formattedTitle = decodedFileName.replace(/%20/g, ' ').replace('.md', '');
 
+  // dateElement.innerHTML = data[element].date;
   mainView.setAttribute("src", path);
   title.innerHTML = formattedTitle;
   console.log(fileName);
