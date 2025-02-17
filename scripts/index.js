@@ -39,7 +39,7 @@ function processData(data) {
       let tags = data[element].tags.split(";"); // Split tags by ';'
       tags.forEach(tag => {
         let badge = document.createElement("span");
-        badge.className = "badge text-bg-secondary me-1"; // Bootstrap badge styling with margin
+        badge.className = "badge rounded-pill text-bg-secondary me-1"; // Bootstrap badge styling with margin
         badge.textContent = tag.trim();
         tagsContainer.appendChild(badge);
       });
