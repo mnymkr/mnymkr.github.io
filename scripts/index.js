@@ -33,6 +33,18 @@ function processData(data) {
     clone.querySelector(".content-preview").innerHTML = data[element].preview;
     clone.querySelector(".link").href = "view.html?post=" + data[element].path;
 
+    // Process and add badges (tags)
+    let tagsContainer = clone.querySelector(".tags-container"); // Ensure there's a container in the template
+    if (tagsContainer && data[element].tags) {
+      let tags = data[element].tags.split(";"); // Split tags by ';'
+      tags.forEach(tag => {
+        let badge = document.createElement("span");
+        badge.className = "badge text-bg-secondary me-1"; // Bootstrap badge styling with margin
+        badge.textContent = tag.trim();
+        tagsContainer.appendChild(badge);
+      });
+    }
+
     // then append it to the mainView
     mainView.appendChild(clone);
   }
